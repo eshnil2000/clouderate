@@ -1,0 +1,2 @@
+# clouderate
+Community Edition
